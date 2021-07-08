@@ -1,9 +1,9 @@
-﻿# Welcome to my first Repository - MathUtil project
+﻿# Welcome to my Repository - PhoneManagement project
 This repository contains a simple Java application used for the de monstration of CI - Continuous Integratiion process,
 as a part of Introduction to Softwaew Engineerring course at FPT University, HCM Campus
 ## You will find in this repo:
 
-* NetBeans Apache Ant project including JUnit Test.
+* NetBeans Apache Ant project including OPP.
 * .gitignore file for NetBeans project
 * README.md - this file itselt - using Markdown language
 
