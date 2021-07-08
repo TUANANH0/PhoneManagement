@@ -1,0 +1,5 @@
+A12;MediaTek Helio;Black;SamSung;4;8;6.5;3450000
+A20s;Snapdragon 450 ;Black;SamSung;4;5;6.5;2890000
+A32;Helio G80 (12nm);Black;SamSung;6;20;6.4;5790000
+A31;Mediatek Helio;White;SamSung;6;20;6.4;4690000
+A52;Snapdragon 720G;Black;SamSung;8;32;6.5;8490000
